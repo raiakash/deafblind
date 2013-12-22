@@ -12,7 +12,7 @@ def wiki_fetch():
         'http://en.wikipedia.org/w/api.php?action=query&prop=extracts&'
         'exintro=1&titles={title}&format=json&explaintext=1'
         '&exsectionformat=plain&redirects'.format(
-            title=request.args.get("title", "lol")))
+            title=request.args.get("title", "Sanskrit")))
 
     response = {}
     req = requests.get(url)

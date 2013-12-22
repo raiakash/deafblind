@@ -7,4 +7,4 @@ Developed on mit's app inventor, cloud based platform with use of wikipedia api 
 fetch data from wikipedia in json format.
 
   
-  download the apk file from here: <a href="https://docs.google.com/file/d/0B-SHu3jEjt4EWUxpcWo5dFZsTEU/edit?usp=sharing" target="_blank"> deafblind.apk </a>
+  download the apk file from here: <a href="https://drive.google.com/file/d/0B-SHu3jEjt4EbFRHTjAtSm5NZFU/edit?usp=sharing" target="_blank"> deafblind.apk </a>
